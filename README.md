@@ -6,6 +6,6 @@
 尽情体验央视往期节目吧
 
 示例展示
-http://codding.cn/cctv.png
+http://codding.cn/cctv.jpg
 
-![截图](http://codding.cn/cctv.png)
+![截图](http://codding.cn/cctv.jpg)
